@@ -1,0 +1,2 @@
+id,Nombre,Tipo,Edad,Altura
+1  pancho Perro  2  25.00
